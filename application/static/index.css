@@ -1,0 +1,12 @@
+h1{
+    margin-top: 3em;
+    text-align: center;
+}
+.form{
+    margin: 10em auto 0;
+    width: 50%;
+}
+.form form{
+    display: flex;
+    gap: 1em;
+}

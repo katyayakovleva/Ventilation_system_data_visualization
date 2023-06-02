@@ -1,0 +1,64 @@
+
+body{
+}
+
+.page-title{
+  /*margin: 2em 0 2em;*/
+  text-align: left;
+  font-size: 5em;
+}
+.form{
+  margin: 7em 0 6em;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+
+}
+.form form{
+  display: flex;
+  gap: 2em;
+  align-items: end;
+}
+.form form div{
+  display: block;
+}
+.data{
+  margin-top: 3em;
+}
+.chart-container{
+  margin: 3em 0;
+}
+.chart{
+    overflow:visible !important;
+    margin: 1em 0 2em;
+}
+.chart-info{
+  border: 1px solid #c4c2c2;
+  padding: 1em;
+}
+
+#heatMap-top{
+  position: relative !important;
+}
+#heatMap-wrapper{
+  margin: auto !important;
+}
+/*#download_json{*/
+/*  margin-top: 1em;*/
+/*}*/
+.description{
+  display: none;
+}
+.return_link{
+  margin-bottom: 6em;
+}
+.return_link a{
+  color: white;
+  text-decoration: none;
+}
+.header{
+  margin-top: 3em;
+  display: flex;
+  justify-content: space-between;
+   align-items: end;
+}
